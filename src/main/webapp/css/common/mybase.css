@@ -1,0 +1,46 @@
+/* 修改easyui默认样式的css */
+.datagrid-cell, .datagrid-cell-group, .datagrid-header-rownumber,
+	.datagrid-cell-rownumber {
+	margin: 0;
+	padding: 0px 4px;
+	white-space: nowrap;
+	word-wrap: normal;
+	overflow: hidden;
+	height: 40px;
+	line-height: 40px;
+	font-size: 14px;
+}
+
+.datagrid-header-row, .datagrid-row {
+	height: 40px;
+}
+
+.datagrid-header .datagrid-cell span {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/* //更改表格标题的行间距 */
+.panel-title {
+	margin: 0;
+	height: 20px;
+	line-height: 20px;
+	font-size: 20px;
+	color: inherit;
+}
+
+.datagrid-toolbar {
+	height: auto;
+	padding: 1px 2px;
+	border-width: 0 0 1px 0;
+	border-style: solid;
+	margin: 10px;
+	background-color: white;
+}
+
+.datagrid-header td, .datagrid-body td, .datagrid-footer td {
+	border-width: 1px 1px 1px 0;
+	border-style: dotted;
+	margin: 0;
+	padding: 0;
+}
