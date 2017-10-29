@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -114,7 +114,7 @@
 						</tr>
 						<tr>
 							<td><input value="4" check="box" type="checkbox"></td>
-							<td>用户中心</td>
+							<td>用户中心hahahaah </td>
 							<td>100002</td>
 							<td permissionids="8,11,9,12,10">用户列表,用户激活&amp;禁止,在线用户,用户删除,用户Session踢出</td>
 							<td>
